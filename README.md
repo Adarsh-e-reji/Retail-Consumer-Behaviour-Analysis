@@ -1,4 +1,4 @@
-# Retail Consumer Behaviour Analysis 🛒
+# 🛒 Retail Consumer Behaviour Analysis 
 
 ![Dashboard Preview](dashboard.png)
 
@@ -40,3 +40,4 @@ This project analyzes **3,900 customer records** to identify drivers of sales pe
 
 ---
 *Author: Adarsh E Reji* | *Data Analyst Portfolio*
+
